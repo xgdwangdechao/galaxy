@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['s_5fansio_5ffiltering_2987',['s_ansio_filtering',['../classqs_1_1_window_settings.html#a80b7e9c9e4df841d90400190610b55ee',1,'qs::WindowSettings']]],
+  ['s_5fanti_5faliasing_2988',['s_anti_aliasing',['../classqs_1_1_window_settings.html#a91149957ac77e8a40cc49e42f7bebdd7',1,'qs::WindowSettings']]],
+  ['s_5faspect_5fratio_5fx_2989',['s_aspect_ratio_x',['../classqs_1_1_window_settings.html#a14b03493377877018d36aed148d34581',1,'qs::WindowSettings']]],
+  ['s_5faspect_5fratio_5fy_2990',['s_aspect_ratio_y',['../classqs_1_1_window_settings.html#a694918b9eb5c9e199b188b534be0523d',1,'qs::WindowSettings']]],
+  ['s_5faudio_2991',['s_audio',['../classgalaxy_1_1_file_system.html#a0ef5df93570b06029218df0a95b08bf9',1,'galaxy::FileSystem']]],
+  ['s_5fcounter_2992',['s_counter',['../classpr_1_1_unique_i_d.html#a1f5287de3552cf0f07686d23ef6f7a3f',1,'pr::UniqueID']]],
+  ['s_5ffonts_2993',['s_fonts',['../classgalaxy_1_1_file_system.html#a21c2eec6cb857b985bf8a419bbb506ac',1,'galaxy::FileSystem']]],
+  ['s_5fjson_2994',['s_json',['../classgalaxy_1_1_file_system.html#a27cbeda5fe028b3cdf55a7e624588db3',1,'galaxy::FileSystem']]],
+  ['s_5fraw_5fmouse_5finput_2995',['s_raw_mouse_input',['../classqs_1_1_window_settings.html#a5ee84a3c83b5ba7c978ff55631eba083',1,'qs::WindowSettings']]],
+  ['s_5froot_2996',['s_root',['../classgalaxy_1_1_file_system.html#af49528a660ad9f0b176e23ca12a1f223',1,'galaxy::FileSystem']]],
+  ['s_5fsaves_2997',['s_saves',['../classgalaxy_1_1_file_system.html#acea6fb2fc0ae87f5a983485e8d02cf41',1,'galaxy::FileSystem']]],
+  ['s_5fscripts_2998',['s_scripts',['../classgalaxy_1_1_file_system.html#ac2da1e063abe5cf489159604105dc43d',1,'galaxy::FileSystem']]],
+  ['s_5fshaders_2999',['s_shaders',['../classgalaxy_1_1_file_system.html#a951e32c4f1c56ae067c886b80f5eabd5',1,'galaxy::FileSystem']]],
+  ['s_5fsrgb_3000',['s_srgb',['../classqs_1_1_window_settings.html#abc7b34ebd6365aa9542f7c92ca94434a',1,'qs::WindowSettings']]],
+  ['s_5ftexture_5fformat_3001',['s_texture_format',['../classqs_1_1_window_settings.html#a04480abafbb052c3c250850b2e4ccab6',1,'qs::WindowSettings']]],
+  ['s_5ftextures_3002',['s_textures',['../classgalaxy_1_1_file_system.html#a5f1694fedb5d1d28eaccd6725ffe3d77',1,'galaxy::FileSystem']]],
+  ['s_5fvsync_3003',['s_vsync',['../classqs_1_1_window_settings.html#abe92cb00742faba8614c9dd060b2f2e7',1,'qs::WindowSettings']]],
+  ['sbc_3004',['sbc',['../classsc_1_1_im_gui_layer.html#a9f55c73a39026cb14d94719b06d6d29b',1,'sc::ImGuiLayer']]],
+  ['sc_3005',['sc',['../classsc_1_1_im_gui_layer.html#a9939fb5f3768c51950e4f3ae30654f9e',1,'sc::ImGuiLayer']]],
+  ['shc_3006',['shc',['../classsc_1_1_im_gui_layer.html#ac50c4db05e53555318d333070db09f09',1,'sc::ImGuiLayer']]],
+  ['standard_5ftype_3007',['standard_type',['../namespacepr.html#a8b6778798ee5bff37916dfc2659ef11a',1,'pr']]]
+];
